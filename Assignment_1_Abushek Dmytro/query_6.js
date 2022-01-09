@@ -1,0 +1,1 @@
+printjson(db.qwerty.insertOne({sex:"Male",first_name:"Dmytro",last_name:"Abushek",job:"Student",email: "s22779@gmail.com",location:{city:"Warsaw",address:{streetname:"Blabla",streetnumber:"2"}},description:"Test",height:"188",weight:"160",birth_date:"1995-07-13T00:22:43Z",nationality:"Ukraine",credit:[{type:"VISA",number:"414967890966649",currency:"USD",balance:"228"}]}))
