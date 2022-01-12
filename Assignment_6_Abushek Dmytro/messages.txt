@@ -1,0 +1,6 @@
+Document added to database: 22779
+Document: 22779 - {"studiesAverage": 5.0, "requiredInternships": 0, "number": 22779, "name": "Dmytro Abushek"}
+Document: 22779 - has been updated (changed field 'requiredInternships' to 320)
+Document: 22779 - {"studiesAverage": 5.0, "requiredInternships": 320, "number": 22779, "name": "Dmytro Abushek"}
+Document: 22779 - has been deleted
+Unable to find document: 22779 (Document: None)
